@@ -1,0 +1,11 @@
+# build artifacts
+src/lex.yy.c
+src/lexer
+
+# python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
